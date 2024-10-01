@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farmacia_EF", "Farmacia_EF\Farmacia_EF.csproj", "{CF59D8C3-FFC8-4796-BFE9-AAADABE00C32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{8765D58E-F82F-4675-AF4B-28D62C0FAF1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller", "Controller\Controller.csproj", "{2638F2FC-4767-4713-BB25-B656EBE2C6F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF59D8C3-FFC8-4796-BFE9-AAADABE00C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF59D8C3-FFC8-4796-BFE9-AAADABE00C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF59D8C3-FFC8-4796-BFE9-AAADABE00C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF59D8C3-FFC8-4796-BFE9-AAADABE00C32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8765D58E-F82F-4675-AF4B-28D62C0FAF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8765D58E-F82F-4675-AF4B-28D62C0FAF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8765D58E-F82F-4675-AF4B-28D62C0FAF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8765D58E-F82F-4675-AF4B-28D62C0FAF1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2638F2FC-4767-4713-BB25-B656EBE2C6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2638F2FC-4767-4713-BB25-B656EBE2C6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2638F2FC-4767-4713-BB25-B656EBE2C6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2638F2FC-4767-4713-BB25-B656EBE2C6F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE5B5213-8300-4B5D-99BD-E832F62A76AB}
+	EndGlobalSection
+EndGlobal
