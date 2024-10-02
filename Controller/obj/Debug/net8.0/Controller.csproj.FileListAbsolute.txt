@@ -13,3 +13,4 @@ C:\Users\aylen_bdmy8q4\source\repos\Farmacia_EF\Controller\obj\Debug\net8.0\Cont
 C:\Users\aylen_bdmy8q4\source\repos\Farmacia_EF\Controller\obj\Debug\net8.0\refint\Controller.dll
 C:\Users\aylen_bdmy8q4\source\repos\Farmacia_EF\Controller\obj\Debug\net8.0\Controller.pdb
 C:\Users\aylen_bdmy8q4\source\repos\Farmacia_EF\Controller\obj\Debug\net8.0\ref\Controller.dll
+C:\Users\aylen_bdmy8q4\source\repos\Farmacia_EF\Controller\obj\Debug\net8.0\Controller.sourcelink.json
